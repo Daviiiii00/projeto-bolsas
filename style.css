@@ -124,5 +124,15 @@ button{
         }
 
     }
+    .redes{
+      display: flex;
+      justify-content: center;
+  gap: 20px;
+
+      img{
+        height: 30px;
+        width: 30px;
+      }
+    }
     
     
